@@ -1,4 +1,4 @@
-- ## Hola / Namaste / Assalamualikum 👋
+ ## Hola / Namaste / Assalamualikum 👋
 ![](https://raw.githubusercontent.com/Rakhshan7070/Rakhshan7070/refs/heads/main/ProfileBanner.jpg)
 - 👨‍💻 I’m currently maintaintaining **Moto Edge 30(dubai)** && Completing high school 😟 && Learning App Development.
 - 🔍 Find Me on - [Telegram](https://t.me/shan_rakh) / Email : alirakhshan7070@gmail.com
