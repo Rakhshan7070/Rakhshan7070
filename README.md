@@ -1,4 +1,3 @@
-## Hi there 👋
 ![](https://raw.githubusercontent.com/Rakhshan7070/Rakhshan7070/refs/heads/Profile/ProfileBanner.jpg)
 
 <!--
